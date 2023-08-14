@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/** 
- * main - Describe if n is positive, negative or zero
- *
+
+/**
+ * 0-positive_or_negative.c
  * Return: 0 Success
  */
 
