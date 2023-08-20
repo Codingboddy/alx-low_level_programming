@@ -18,8 +18,6 @@ int main(void)
 		putchar(x);
 		putchar(y);
 		if (x != 9)
-	}
-	{
 		putchar(',');
 		putchar(' ');
 	}
