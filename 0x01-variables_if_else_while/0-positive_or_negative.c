@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
- * 0-positive_or_negative.c
+ * main - Determine if number is positive, zero or negative
  * Return: 0 Success
  */
 
